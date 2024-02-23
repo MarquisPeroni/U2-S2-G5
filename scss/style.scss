@@ -1,0 +1,18 @@
+@import "./partials/bootstrap-overrides";
+footer li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+footer {
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+#black{
+    color: black;
+}
+
+header {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 244%);
+}
