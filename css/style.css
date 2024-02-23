@@ -11857,4 +11857,14 @@ header {
   background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 244%);
 }
 
+.checkbox-xl .form-check-input {
+  top: 1.2rem;
+  scale: 1.7;
+  margin-right: 0.8rem;
+}
+
+input[type=checkbox]:focus {
+  box-shadow: none;
+}
+
 /*# sourceMappingURL=style.css.map */
